@@ -1,0 +1,6 @@
+projectKey=fahad
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/fahad
+ceTaskId=AWHVmOUbP-5Cdln2tMaB
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWHVmOUbP-5Cdln2tMaB
